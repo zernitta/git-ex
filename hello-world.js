@@ -1,2 +1,2 @@
 var abc = 'hello world';
-master-c6
+var a = 1;
